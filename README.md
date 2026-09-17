@@ -9,6 +9,8 @@ Before the workshop, please work through the [OpenSAFELY getting started guide](
 - Plot your results in R or Python.
 - Test your dataset definitions.
 
+Running the workshop? See the [instructor guide](INSTRUCTORS.md).
+
 ## Cloning the template repository
 
 1. Click this link to start: https://github.com/bennettoxford/ehrql-demo/generate.
@@ -51,6 +53,7 @@ In OpenSAFELY you never see real patient data. While you write your code, ehrQL 
 - [OpenCodeCounts](https://www.opencodecounts.net/)
 - [OpenSAFELY Platform](https://www.opensafely.org/)
 - [The OpenSAFELY Demo Repo](https://github.com/bennettoxford/os_training_demonstration)
+- [Bennett Institute introductory coding task: Implementing QOF registers in ehrQL](https://github.com/bennettoxford/bennett-research-onboarding-qof)
 
 ## Licence
 
